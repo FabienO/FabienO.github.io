@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://FabienO.github.io
+title: Fabor
+email: FabienOram@gmail.com
+author: Fabien Oram
+description: We got... Tiny Press
+paginate: 3
+google_analytics: 
